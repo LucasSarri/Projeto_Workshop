@@ -1,0 +1,23 @@
+{
+  "name": "projeto_workshop",
+  "version": "1.0.0",
+  "description": "Estre projeto trata-se de uma plataforma gameficada de aprendizado na área de Tecnologia da Informação no geral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSarri/Projeto_Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSarri/Projeto_Workshop/issues"
+  },
+  "homepage": "https://github.com/LucasSarri/Projeto_Workshop#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
